@@ -15,12 +15,15 @@ B.Tech in Information Technology 3rd-year undergraduate with a strong interest i
 
 ### 🏆 Achievements:
 
+- 🏁 Actively securing top ranks in national & international CTF competitions
 - 🥉 3rd Rank — ICET-CSDP 2026 CTF
 - 🎖️ 5th Position — Verge-X Bug Bounty Competition
 - 🌍 Global Rank 125 — BlackHat Bugcrowd CTF
 - 🎖️ 5th Position — Hack IITK CTF
 - 🥈 Runner-Up — CloudSEK "Talk to Cyber Professional" Competition
 - 🏅 AIR 2171 — GirlScript Summer of Code (GSSOC), open-source contributions
+- 📈 Top 6% — TryHackMe
+- ✍️ Writes technical write-ups on cybersecurity topics on Medium
 - 🔐 Reported an access-control bypass (IP-spoofing via X-Forwarded-For) exposing an internal Grafana panel to Nokia Security Team
 
 ### 📊 GitHub Stats:
@@ -34,4 +37,3 @@ B.Tech in Information Technology 3rd-year undergraduate with a strong interest i
 ### 📌 Top Contributed Repo
 
 <!-- add repo widget/link here -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
