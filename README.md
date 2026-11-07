@@ -86,7 +86,7 @@ fun_fact: Turns every 403 into a "let's see about that" 😄
 - 🎖️ 5th Position — Hack IITK CTF
 - 🥈 Runner-Up — CloudSEK "Talk to Cyber Professional" Competition
 - 🏅 AIR 2171 — GirlScript Summer of Code (GSSOC), open-source contributions
-- 📈 Top 6% — TryHackMe
+- 📈 Top 3% — TryHackMe
 - 🔒 Reported an access-control bypass (IP-spoofing via X-Forwarded-For) exposing an internal Grafana panel to Nokia Security Team
 
 ---
